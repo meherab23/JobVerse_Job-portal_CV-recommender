@@ -1,4 +1,4 @@
-# <p align="center">CV Recommender</p>
+# <p align="center">JobVerse</p>
 
 A web based automated CV Recommended system where Recruiter can Post and Manage jobs and Applicant can apply for their desired jobs and manage their profile. The
 proposed system is designed to save time while shortlisting resumes in a fair
@@ -68,9 +68,6 @@ Now, as you have successfully downloaded this repository you need to make your d
 
     and now you can see this live on **localhost**.
 
-## Deployment
-
-To deploy this project free on [pythonanywhere](https://www.pythonanywhere.com/) please follow [This official Document](https://help.pythonanywhere.com/pages/DeployExistingDjangoProject/) or [This Tutorial](https://www.youtube.com/watch?v=Y4c4ickks2A).
 
 # Usage
 
