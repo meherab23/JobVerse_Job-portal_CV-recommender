@@ -52,14 +52,14 @@ Now, as you have successfully downloaded this repository you need to make your d
     ```
 -   Go to the project folder
     ```sh
-    cd cv_recommender
+    JobVerse
     ```
 -   Now in the **custom_decorators** folder include a file named **email_credential.py** and in that file
     declare two variables named **my_mail** & **my_pass** and assign your mail and pass to those variable.
 
     or
 
-    Go to **cv_recommender** and then open **settings.py** and **remove** line no **14** and in line number **136** include your **e-mail** and in line number **137** include your **password**. Both email and password needs to be enclosed with **quotation** mark.
+    Go to **JobVerse** and then open **settings.py** and **remove** line no **14** and in line number **136** include your **e-mail** and in line number **137** include your **password**. Both email and password needs to be enclosed with **quotation** mark.
 
 -   Activate the runserver
 
@@ -68,7 +68,6 @@ Now, as you have successfully downloaded this repository you need to make your d
     ```
 
     and now you can see this live on **localhost**.
-
 
 # Usage
 
@@ -109,3 +108,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 -   [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 -   [othneildrew](https://github.com/othneildrew/Best-README-Template/blob/master/README.md)
 -   and a lot of unknown resources
+-   
