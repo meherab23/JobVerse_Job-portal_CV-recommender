@@ -19,7 +19,8 @@ separate attributes as well as an overall ranking. After the ranking process the
 recruiter can send email alerts automatically to the applicants with single click
 if they wish.
 
-<p align="center"> <img src="images/home.png" alt="MarineGEO circle logo" style="height:500px; width:auto; margin:20px; text-align:center"/></p>
+<p align="center"> <img src="images/Homepage1.png" alt="MarineGEO circle logo" style="height:500px; width:auto; margin:20px; text-align:center"/></p>
+<p align="center"> <img src="images/Homepage2.png" alt="MarineGEO circle logo" style="height:500px; width:auto; margin:20px; text-align:center"/></p>
 
 # Getting Started
 
